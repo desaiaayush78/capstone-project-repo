@@ -13,20 +13,6 @@ This repository contains the final-year capstone project focused on detecting fr
 
 ---
 
-## 📁 Project Structure
-
-```
-capstone-fraud-detection/
-├── Capstone_finalYear_Project_FraudDetection.ipynb  # Main analysis notebook
-├── README.md                                        # Project overview
-├── data/                                            # Raw and processed data
-├── outputs/                                         # Predictions, results
-├── models/                                          # Saved models
-└── visuals/                                         # Plots, screenshots
-```
-
----
-
 ## 📊 Key Components
 
 - **Data Preprocessing**: Handling missing values, encoding, and normalization
@@ -96,6 +82,3 @@ Master’s in Data Science | Focused on Fraud Detection & Risk Analytics
 
 ---
 
-## 📜 License
-
-This project is open source under the [MIT License](https://choosealicense.com/licenses/mit/).
