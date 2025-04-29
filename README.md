@@ -58,7 +58,11 @@ capstone-project-repo/
 ## 🧑‍💻 Author
 
 **Aayush Desai**  
+
 Graduate Student, M.S. Data Science @ Pace University  
+
 LinkedIn: [aayush-desai-ad041799](https://www.linkedin.com/in/aayush-desai-ad041799)
+
 Email: desaiaayush78.ad@gmail.com
+
 ---
